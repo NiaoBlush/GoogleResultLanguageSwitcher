@@ -1,2 +1,2 @@
-# GoogleResultLanguageSwitcher
+# 临时更改谷歌搜索结果中英文
 将google结果切换为中文结果, 不改变Google界面语言
