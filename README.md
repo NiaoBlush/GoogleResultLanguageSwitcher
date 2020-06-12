@@ -1,0 +1,2 @@
+# GoogleResultLanguageSwitcher
+将google结果切换为中文结果, 不改变Google界面语言
