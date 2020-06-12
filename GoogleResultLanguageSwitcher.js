@@ -1,11 +1,12 @@
 // ==UserScript==
-// @name         临时更改谷歌搜索结果中英文
-// @name         Google Result Language Switcher
-// @version      1.0
-// @description  将google结果切换为中文结果, 不改变Google界面语言
-// @author       NiaoBlush
-// @grant        none
-// @include       https://www.google.com/search?*
+// @name            临时更改谷歌搜索结果中英文
+// @name            Google Result Language Switcher
+// @version         1.0
+// @description     将google结果切换为中文结果, 不改变Google界面语言
+// @author          NiaoBlush
+// @license         MIT
+// @grant           none
+// @include         https://www.google.com/search?*
 // ==/UserScript==
 
 (function () {
