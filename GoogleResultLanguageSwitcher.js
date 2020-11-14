@@ -16,11 +16,11 @@
     const currentLang = urlParams.get("lr") || "en";
     const btnId = "btn-language-switcher";
 
-    let parent = document.getElementsByTagName("g-header-menu")[1].parentElement;
+    let parent = document.getElementById("hdtb-tls").parentElement;
     let className = parent.lastElementChild.className;
 
     let button = document.createElement("a");
-    button.innerText = currentLang === 'en' ? "lang_zh-CN" : "en";
+    button.innerHTML = currentLang === 'en' ? "<font color=#5f6368>简体中文结果</font>" : "<font color=#5f6368>结果不限语言</font>";
     button.className = className;
     button.id = btnId;
     button.onclick = () => reload();
@@ -31,7 +31,7 @@
      * 重载页面
      */
     function reload() {
-        document.getElementById(btnId).innerText = "reloading";
+        document.getElementById(btnId).innerHTML = "<font color=#5f6368>正在重新加载</font>";
         if (currentLang === 'lang_zh-CN') {
             urlParams.delete("lr");
         } else {
