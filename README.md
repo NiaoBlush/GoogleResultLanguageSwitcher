@@ -4,3 +4,6 @@
 ![to zh](https://github.com/NiaoBlush/GoogleResultLanguageSwitcher/blob/master/images/1.png?raw=true)
 
 ![to en](https://github.com/NiaoBlush/GoogleResultLanguageSwitcher/blob/master/images/2.png?raw=true)
+
+## 其他贡献人
+[DicHac](https://github.com/glcas)
