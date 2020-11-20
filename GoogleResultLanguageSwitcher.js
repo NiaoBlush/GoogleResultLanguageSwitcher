@@ -2,7 +2,7 @@
 // @name            临时更改谷歌搜索结果中英文
 // @name            Google Result Language Switcher
 // @namespace       https://github.com/NiaoBlush/GoogleResultLanguageSwitcher
-// @version         1.0
+// @version         1.1
 // @description     将google结果切换为中文结果, 不改变Google界面语言
 // @author          NiaoBlush
 // @license         MIT
